@@ -1,0 +1,14 @@
+Tempo,Temperatura,Humidade,Vento,Jogar Tenis
+Ensolarado,Quente,Alta,Fraco,Não
+Ensolarado,Quente,Alta,Forte,Não
+Nublado,Quente,Alta,Fraco,Sim
+Chuvoso,Moderada,Alta,Fraco,Sim
+Chuvoso,Agradável,Normal,Fraco,Sim
+Chuvoso,Agradável,Normal,Forte,Não
+Ensolarado,Moderada,Alta,Fraco,Não
+Ensolarado,Agradável,Normal,Fraco,Sim
+Chuvoso,Moderada,Normal,Fraco,Sim
+Ensolarado,Moderada,Normal,Forte,Sim
+Nublado,Moderada,Alta,Fraco,Sim
+Nublado,Quente,Normal,Fraco,Sim
+Chuvoso,Moderada,Alta,Forte,Não
