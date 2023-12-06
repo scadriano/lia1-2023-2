@@ -1,4 +1,4 @@
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'Chave aqui'
 
 
 import os
